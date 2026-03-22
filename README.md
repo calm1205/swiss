@@ -33,4 +33,5 @@
 | [accommodation.md](./accommodation.md) | 宿泊サマリー・Airbnb情報 |
 | [budget.md](./budget.md) | 予算目安・交通パス |
 | [checklist.md](./checklist.md) | 持ち物・要予約リスト・秋の注意点 |
+| [food.md](./food.md) | スイス料理ガイド |
 | [risks.md](./risks.md) | 外的リスクと対策 |
