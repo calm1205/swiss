@@ -1,6 +1,6 @@
 # スイス旅行計画（秋・9日間）
 
-- **時期**: 9〜10月
+- **時期**: 2026年9月5日（土）〜 9月13日（日）
 - **日数**: 9日間（移動込み）
 - **人数**: 2人
 - **テーマ**: 絶景・自然、山岳ハイキング、鉄道旅、グルメ
@@ -14,17 +14,17 @@
 
 ## 日程（1日1ファイル）
 
-| Day | テーマ | 泊 | ファイル |
-|-----|--------|-----|---------|
-| 1 | 石畳の旧市街と、最初のスイスチョコレート | 都心 | [day1-zurich.md](./days/day1-zurich.md) |
-| 2 | 雲海の上で迎えた朝焼け | 山岳 | [day2-rigi.md](./days/day2-rigi.md) |
-| 3 | 断崖から降り注ぐ72の滝 | 山岳 | [day3-lauterbrunnen.md](./days/day3-lauterbrunnen.md) |
-| 4 | 標高3,454m、万年雪の上に立った日 | 山岳 | [day4-jungfraujoch.md](./days/day4-jungfraujoch.md) |
-| 5 | エメラルドの湖畔で、時間を忘れた午後 | 湖畔 | [day5-brienzersee.md](./days/day5-brienzersee.md) |
-| 6 | 夕焼けに染まるマッターホルンとの出会い | 山岳 | [day6-zermatt-arrival.md](./days/day6-zermatt-arrival.md) |
-| 7 | 湖面に映る逆さマッターホルン | 山岳 | [day7-gornergrat.md](./days/day7-gornergrat.md) |
-| 8 | レマン湖を眺めながら、最後のフォンデュ | 都心 | [day8-geneva.md](./days/day8-geneva.md) |
-| 9 | チョコレートをスーツケースに詰めて | — | [day9-departure.md](./days/day9-departure.md) |
+| Day | 日付 | テーマ | 泊 | ファイル |
+|-----|------|--------|-----|---------|
+| 1 | 9/5（土） | 石畳の旧市街と、最初のスイスチョコレート | 都心 | [day1-zurich.md](./days/day1-zurich.md) |
+| 2 | 9/6（日） | 雲海の上で迎えた朝焼け | 山岳 | [day2-rigi.md](./days/day2-rigi.md) |
+| 3 | 9/7（月） | 断崖から降り注ぐ72の滝 | 山岳 | [day3-lauterbrunnen.md](./days/day3-lauterbrunnen.md) |
+| 4 | 9/8（火） | 標高3,454m、万年雪の上に立った日 | 山岳 | [day4-jungfraujoch.md](./days/day4-jungfraujoch.md) |
+| 5 | 9/9（水） | エメラルドの湖畔で、時間を忘れた午後 | 湖畔 | [day5-brienzersee.md](./days/day5-brienzersee.md) |
+| 6 | 9/10（木） | 夕焼けに染まるマッターホルンとの出会い | 山岳 | [day6-zermatt-arrival.md](./days/day6-zermatt-arrival.md) |
+| 7 | 9/11（金） | 湖面に映る逆さマッターホルン | 山岳 | [day7-gornergrat.md](./days/day7-gornergrat.md) |
+| 8 | 9/12（土） | レマン湖を眺めながら、最後のフォンデュ | 都心 | [day8-geneva.md](./days/day8-geneva.md) |
+| 9 | 9/13（日） | チョコレートをスーツケースに詰めて | — | [day9-departure.md](./days/day9-departure.md) |
 
 ## その他
 
