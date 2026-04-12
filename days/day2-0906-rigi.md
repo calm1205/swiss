@@ -24,6 +24,9 @@
 ## ルツェルン（約2時間の散策）
 
 ### カペル橋（Kapellbrücke）
+
+![カペル橋とルツェルン旧市街](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CH.LU.Luzern_Kapellbr%C3%BCcke_01_16x9-R_16384x9216.jpg/1280px-CH.LU.Luzern_Kapellbr%C3%BCcke_01_16x9-R_16384x9216.jpg)
+
 - **ヨーロッパ最古の木造橋**（1333年）
 - 橋の内部に三角形の板絵が並ぶ。17世紀のルツェルンの歴史を描写
 - 中央の水の塔（Wasserturm）もフォトジェニック
@@ -39,6 +42,9 @@
 - ルツェルン駅から徒歩圏内にコンパクトにまとまる
 
 ### ルツェルン湖畔
+
+![ルツェルン湖（フィアヴァルトシュテッター湖）](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/1005L_Viewaldstaetter_%2829%29.jpg/1280px-1005L_Viewaldstaetter_%2829%29.jpg)
+
 - 駅前から湖が広がる。天気が良ければピラトゥス山・リギ山の山並み
 - 白鳥が泳ぐ湖面を眺めながら、これから向かうリギ山を遠望
 
@@ -51,11 +57,17 @@
 - **おすすめ**: 2階デッキの最前列席
 
 ### リギ登山鉄道
+
+![リギ登山鉄道（フィッツナウ＝リギ鉄道）](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/00_0116_Rigi-Bahnen_-_Schweiz.jpg/1280px-00_0116_Rigi-Bahnen_-_Schweiz.jpg)
+
 - フィッツナウ → リギ・クルム（約30分）
 - 1871年開業、**ヨーロッパ最古の登山鉄道**
 - 急勾配を登る車窓からルツェルン湖が眼下に広がる
 
 ### リギ山頂（Rigi Kulm / 標高1,798m）
+
+![リギ山頂からのパノラマ](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20240906.Rigi_Kulm.-029.3.jpg/1280px-20240906.Rigi_Kulm.-029.3.jpg)
+
 - **360°パノラマ**: アルプスの山々、ルツェルン湖・ツーク湖・ラウエルツ湖を一望
 - 晴天時はアイガー・メンヒ・ユングフラウまで見える
 - 山頂の展望台は無料
