@@ -27,6 +27,9 @@
 - **ローヌ谷**: フィスプ手前の広大な谷。ブドウ畑が斜面に広がる
 
 ### ツェルマット村
+
+![ツェルマット旧市街（ヒンタードルフ通り）](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/4099_-_Zermatt_-_Hinterdorfstrasse.JPG/1280px-4099_-_Zermatt_-_Hinterdorfstrasse.JPG)
+
 - **車両禁止の村**: ガソリン車は進入禁止。電気自動車とホースカートのみ
 - **旧市街（Hinterdorf）**: 築数百年のヴァレー式木造家屋
   - ネズミ返しの石板（Stadel）が特徴的
@@ -34,6 +37,9 @@
 - 到着日は村をのんびり歩くだけで十分
 
 ### スネガ展望台（Sunnegga / 標高2,288m）
+
+![ライゼーに映る逆さマッターホルン](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Matterhorn_and_its_reflection_in_the_Leisee_October_2020.jpg/1280px-Matterhorn_and_its_reflection_in_the_Leisee_October_2020.jpg)
+
 - ツェルマット駅からケーブルカーでわずか3分
 - マッターホルンを最も美しく眺められるスポットの一つ
 - **ライゼー（Leisee）**: 展望台近くの小さな山上湖
@@ -43,6 +49,9 @@
 - **無理に行かなくてもOK**。移動疲れがあれば村の散策だけで十分
 
 ### 夕焼けのマッターホルン
+
+![夕焼けに染まるマッターホルン](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/043_Matterhorn_reflecting_in_Stellisee_at_sunset_Photo_by_Giles_Laurent.jpg/1280px-043_Matterhorn_reflecting_in_Stellisee_at_sunset_Photo_by_Giles_Laurent.jpg)
+
 - 日没時、山頂がオレンジ〜ピンクに染まる（アーベントロート）
 - **おすすめ鑑賞スポット**:
   - キルヒブリュッケ（教会橋）周辺

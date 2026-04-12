@@ -27,6 +27,9 @@
 ## 朝のハイキング
 
 ### ブラウヘルド → シュテリゼー（5湖ハイキングのショートコース）
+
+![シュテリゼーに映る逆さマッターホルン](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/043_Matterhorn_reflecting_in_Stellisee_at_sunset_Photo_by_Giles_Laurent.jpg/1280px-043_Matterhorn_reflecting_in_Stellisee_at_sunset_Photo_by_Giles_Laurent.jpg)
+
 - **ルート**: ブラウヘルド（Blauherd, 2,571m）→ シュテリゼー（Stellisee, 2,537m）
 - **所要時間**: 片道約25〜30分（ほぼ平坦）
 - **難易度**: 易（朝の軽いウォーキング感覚）
@@ -44,11 +47,17 @@
 ## ベルンの見どころ
 
 ### 旧市街（UNESCO世界遺産）
+
+![ベルン旧市街とアーレ川（バラ公園より）](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bern_Panorama_von_Rosengarten_20211007.jpg/1280px-Bern_Panorama_von_Rosengarten_20211007.jpg)
+
 - 三方をアーレ川に囲まれた中世の街並み
 - 6kmにわたるアーケード（Lauben）が特徴。ヨーロッパ最長の屋根付き商店街
 - 石畳の通りに噴水彫刻が11基点在。16世紀の色鮮やかな装飾
 
 ### ツィートグロッゲ（Zytglogge / 時計塔）
+
+![ツィートグロッゲ（時計塔）](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/The_Zytglogge_clock_tower.jpg/1280px-The_Zytglogge_clock_tower.jpg)
+
 - 旧市街のシンボル。1530年製の天文時計
 - 毎正時の4分前にからくり人形が動き出す
 - 鶏、道化師、熊の行列が時を告げる

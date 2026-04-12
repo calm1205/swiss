@@ -26,6 +26,9 @@
 ## 見どころ
 
 ### ゴルナーグラート鉄道（Gornergrat Bahn）
+
+![ゴルナーグラート鉄道とマッターホルン](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/3818_-_Riffelberg_-_Matterhorn_viewed_from_Gornergratbahn.JPG/1280px-3818_-_Riffelberg_-_Matterhorn_viewed_from_Gornergratbahn.JPG)
+
 - ツェルマット → ゴルナーグラート（標高3,089m）
 - 所要時間: 約33分
 - **スイスで最も人気の登山鉄道**の一つ
@@ -33,6 +36,9 @@
 - 途中のカラマツ林が秋に黄金色に紅葉し、マッターホルンとのコントラストが絶景
 
 ### ゴルナーグラート展望台（標高3,089m）
+
+![ゴルナーグラートからのパノラマ](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_panorama_of_the_Matterhorn_from_the_Gornergrat_170622.jpg/1280px-Aerial_panorama_of_the_Matterhorn_from_the_Gornergrat_170622.jpg)
+
 - **マッターホルン（4,478m）**: 南西に堂々とそびえる象徴的なピラミッド型
 - **モンテローザ（4,634m）**: スイス最高峰。南東方向
 - **29座の4,000m峰**: 晴天時に一望できる
@@ -40,6 +46,9 @@
 - **撮影Tips**: 早朝（8:30〜9:30）は人が少なく、光も柔らか。マッターホルンは午前が順光
 
 ### リッフェルゼー（Riffelsee / 標高2,757m）
+
+![リッフェルゼーに映る逆さマッターホルン](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Matterhorn_Riffelsee_2005-06-11.jpg/1280px-Matterhorn_Riffelsee_2005-06-11.jpg)
+
 - ゴルナーグラートから徒歩で下った場所にある山上湖
 - **逆さマッターホルン（Spiegelung）** の最も有名な撮影スポット
 - **撮影条件**: 風がなく湖面が穏やかな早朝がベスト

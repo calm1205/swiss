@@ -27,18 +27,27 @@
 - 展望台に6:30頃に出ると、空が徐々に染まる全過程を楽しめる
 
 ### ラウターブルンネン谷
+
+![ラウターブルンネン渓谷のパノラマ](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lauterbrunnental_from_M%C3%A4nnlichen%2C_Bern%2C_Switzerland%2C_2012_August.jpg/1280px-Lauterbrunnental_from_M%C3%A4nnlichen%2C_Bern%2C_Switzerland%2C_2012_August.jpg)
+
 - U字谷に72もの滝が流れ落ちる「滝の谷」
 - 両側に300m超の断崖絶壁がそびえ立つ
 - J.R.R.トールキンが「裂け谷（リヴェンデル）」の着想を得た場所とされる
 - 谷の底を歩くだけで圧倒的なスケール感
 
 ### シュタウプバッハの滝（Staubbachfall）
+
+![シュタウプバッハの滝](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Staubbachfall_in_Lauterbrunnen_BE.jpg/1280px-Staubbachfall_in_Lauterbrunnen_BE.jpg)
+
 - 高さ297m。谷のシンボル的存在
 - 滝の裏側に回れる遊歩道あり（無料）
 - 風が強い日は水が霧状に舞い散り、虹が出ることも
 - **撮影スポット**: 村の教会越しに滝を捉える構図が定番
 
 ### トリュンメルバッハの滝（Trümmelbachfälle）
+
+![トリュンメルバッハの滝](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tr%C3%BCmmelbachf%C3%A4lle_im_Lauterbrunnental.jpg/1280px-Tr%C3%BCmmelbachf%C3%A4lle_im_Lauterbrunnental.jpg)
+
 - 氷河の雪解け水が岩の中を流れ落ちる**ヨーロッパ唯一の地下氷河瀑布**
 - エレベーターとトンネルで10段の滝を見学（約1時間）
 - 毎秒2万リットルの水量。轟音と水しぶきが迫力満点

@@ -24,6 +24,8 @@
 
 ## イゼルトヴァルト（Iseltwald）
 
+![イゼルトヴァルトとブリエンツ湖](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/5506_-_Iseltwald_-_Brienzersee.JPG/1280px-5506_-_Iseltwald_-_Brienzersee.JPG)
+
 - ブリエンツ湖の南岸にある**人口400人の小さな村**
 - 韓国ドラマ「愛の不時着」のロケ地として有名になったが、本質は静かな漁村
 - エメラルドグリーン〜ターコイズブルーの湖水が透き通る
@@ -45,6 +47,8 @@
   - 帰りは船でイゼルトヴァルトへ戻れる
 
 ## 気が向いたら：ギースバッハの滝（Giessbach Falls）
+
+![ギースバッハの滝](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20080512Y078r_Giessbachfaelle.jpg/1280px-20080512Y078r_Giessbachfaelle.jpg)
 
 - イゼルトヴァルトから**船で約15分**
 - 14段に分かれた高さ500mの滝が湖に直接流れ込む

@@ -31,6 +31,9 @@
 - 途中駅「アイガーヴァント」「アイスメーア」で停車 → 岩の中の窓から氷河を覗く（各5分停車）
 
 ### スフィンクス展望台（標高3,571m）
+
+![スフィンクス展望台とアレッチ氷河](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sphinx_Observatory_%286060947569%29.jpg/1280px-Sphinx_Observatory_%286060947569%29.jpg)
+
 - エレベーターで展望台へ。ヨーロッパ最高地点の展望台の一つ
 - **アレッチ氷河**: 全長約23km、アルプス最長の氷河（世界遺産）
 - 晴天時はドイツのシュヴァルツヴァルトまで見える
@@ -47,12 +50,18 @@
 - 9〜10月でも雪あり。サングラス必須（雪の反射で目を傷める）
 
 ### クライネシャイデック（途中下車）
+
+![クライネシャイデックとアイガー北壁](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KleineScheidegg.JPG/1280px-KleineScheidegg.JPG)
+
 - 標高2,061m。アイガー・メンヒ・ユングフラウを正面に見上げるビューポイント
 - **アイガー北壁**: 高さ1,800mの岩壁が目の前に迫る
 - レストラン・売店あり
 - ここからヴェンゲンへ下る電車が絶景
 
 ### ヴェンゲン（Wengen）
+
+![ヴェンゲンの村](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/00_1427_Wengen_-_Berner_Oberland_%28Schweiz%29.jpg/1280px-00_1427_Wengen_-_Berner_Oberland_%28Schweiz%29.jpg)
+
 - 車両禁止の山上の村。素朴で牧歌的な雰囲気
 - 花の飾られた木造シャレーが並ぶ「絵葉書のようなスイスの村」
 - カフェでお茶をしながら、アイガーを眺める贅沢な時間
