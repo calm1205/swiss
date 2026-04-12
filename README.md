@@ -17,15 +17,15 @@
 
 | Day | 日付 | テーマ | 泊 | ファイル |
 |-----|------|--------|-----|---------|
-| 1 | 9/5（土） | 旅の始まり、東京から空へ | 移動 | [day1-travel.md](./days/day1-travel.md) |
-| 2 | 9/6（日） | カペル橋を渡り、雲海の上へ | 山岳 | [day2-rigi.md](./days/day2-rigi.md) |
-| 3 | 9/7（月） | 断崖から降り注ぐ72の滝 | 山岳 | [day3-lauterbrunnen.md](./days/day3-lauterbrunnen.md) |
-| 4 | 9/8（火） | 標高3,454m、万年雪の上に立った日 | 山岳 | [day4-jungfraujoch.md](./days/day4-jungfraujoch.md) |
-| 5 | 9/9（水） | エメラルドの湖畔で、時間を忘れた午後 | 湖畔 | [day5-brienzersee.md](./days/day5-brienzersee.md) |
-| 6 | 9/10（木） | 夕焼けに染まるマッターホルンとの出会い | 山岳 | [day6-zermatt-arrival.md](./days/day6-zermatt-arrival.md) |
-| 7 | 9/11（金） | 湖面に映る逆さマッターホルン | 山岳 | [day7-gornergrat.md](./days/day7-gornergrat.md) |
-| 8 | 9/12（土） | アーレ川に囲まれた世界遺産の古都 | 都心 | [day8-bern.md](./days/day8-bern.md) |
-| 9 | 9/13（日） | チョコレートをスーツケースに詰めて | — | [day9-departure.md](./days/day9-departure.md) |
+| 1 | 9/5（土） | 旅の始まり、東京から空へ | 移動 | [day1-0905-travel.md](./days/day1-0905-travel.md) |
+| 2 | 9/6（日） | カペル橋を渡り、雲海の上へ | 山岳 | [day2-0906-rigi.md](./days/day2-0906-rigi.md) |
+| 3 | 9/7（月） | 断崖から降り注ぐ72の滝 | 山岳 | [day3-0907-lauterbrunnen.md](./days/day3-0907-lauterbrunnen.md) |
+| 4 | 9/8（火） | 標高3,454m、万年雪の上に立った日 | 山岳 | [day4-0908-jungfraujoch.md](./days/day4-0908-jungfraujoch.md) |
+| 5 | 9/9（水） | エメラルドの湖畔で、時間を忘れた午後 | 湖畔 | [day5-0909-brienzersee.md](./days/day5-0909-brienzersee.md) |
+| 6 | 9/10（木） | 夕焼けに染まるマッターホルンとの出会い | 山岳 | [day6-0910-zermatt-arrival.md](./days/day6-0910-zermatt-arrival.md) |
+| 7 | 9/11（金） | 湖面に映る逆さマッターホルン | 山岳 | [day7-0911-gornergrat.md](./days/day7-0911-gornergrat.md) |
+| 8 | 9/12（土） | アーレ川に囲まれた世界遺産の古都 | 都心 | [day8-0912-bern.md](./days/day8-0912-bern.md) |
+| 9 | 9/13（日） | チョコレートをスーツケースに詰めて | — | [day9-0913-departure.md](./days/day9-0913-departure.md) |
 
 ## その他
 
